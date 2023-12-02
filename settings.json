@@ -77,7 +77,7 @@
     "window.restoreWindows": "none",
     "window.newWindowDimensions": "maximized",
     "workbench.editor.enablePreview": true,
-    "workbench.iconTheme": "vs-minimal",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
