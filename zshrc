@@ -72,3 +72,6 @@ export EDITOR=code
 export PYTHONBREAKPOINT=ipdb.set_trace
 eval "$(direnv hook zsh)"
 eval "$(direnv hook zsh)"
+sudo /etc/init.d/postgresql start
+export BROWSER='"/mnt/c/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"'
+export GH_BROWSER="'/mnt/c/Program Files (x86)/Microsoft/Edge/Application/msedge.exe'"
