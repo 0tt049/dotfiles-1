@@ -76,3 +76,5 @@ sudo /etc/init.d/postgresql start
 export BROWSER='"/mnt/c/Program Files (x86)/Microsoft/Edge/Application/msedge.exe"'
 export GH_BROWSER="'/mnt/c/Program Files (x86)/Microsoft/Edge/Application/msedge.exe'"
 eval "$(direnv hook zsh)"
+sudo /etc/init.d/postgresql start
+eval "$(direnv hook zsh)"
